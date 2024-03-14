@@ -31,8 +31,8 @@ Display the frame using the imshow().
 
 ## Program:
 
-### Developed By:KANCHARLA NARMADHA
-### Register no:212222110016
+### Developed By:VARSHA.G
+### Register no:212222230166
 
 ## i) Write the frame as JPG file
 ```
